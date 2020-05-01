@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tosidda.github.io/ham-lord/static/css/main.3b90e71d.chunk.css",
+    "main.js": "/tosidda.github.io/ham-lord/static/js/main.194b9907.chunk.js",
+    "main.js.map": "/tosidda.github.io/ham-lord/static/js/main.194b9907.chunk.js.map",
+    "runtime-main.js": "/tosidda.github.io/ham-lord/static/js/runtime-main.860c377b.js",
+    "runtime-main.js.map": "/tosidda.github.io/ham-lord/static/js/runtime-main.860c377b.js.map",
+    "static/js/2.51640244.chunk.js": "/tosidda.github.io/ham-lord/static/js/2.51640244.chunk.js",
+    "static/js/2.51640244.chunk.js.map": "/tosidda.github.io/ham-lord/static/js/2.51640244.chunk.js.map",
+    "index.html": "/tosidda.github.io/ham-lord/index.html",
+    "precache-manifest.159a6e23640e526de8b701ebea842380.js": "/tosidda.github.io/ham-lord/precache-manifest.159a6e23640e526de8b701ebea842380.js",
+    "service-worker.js": "/tosidda.github.io/ham-lord/service-worker.js",
+    "static/css/main.3b90e71d.chunk.css.map": "/tosidda.github.io/ham-lord/static/css/main.3b90e71d.chunk.css.map",
+    "static/js/2.51640244.chunk.js.LICENSE.txt": "/tosidda.github.io/ham-lord/static/js/2.51640244.chunk.js.LICENSE.txt",
+    "static/media/austin.webp": "/tosidda.github.io/ham-lord/static/media/austin.a7aadf33.webp",
+    "static/media/beijing.webp": "/tosidda.github.io/ham-lord/static/media/beijing.209dcd10.webp",
+    "static/media/dallas.webp": "/tosidda.github.io/ham-lord/static/media/dallas.2bc38187.webp",
+    "static/media/newyork.webp": "/tosidda.github.io/ham-lord/static/media/newyork.ebb81965.webp",
+    "static/media/sanfrancisco.webp": "/tosidda.github.io/ham-lord/static/media/sanfrancisco.b58ad59e.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.860c377b.js",
+    "static/js/2.51640244.chunk.js",
+    "static/css/main.3b90e71d.chunk.css",
+    "static/js/main.194b9907.chunk.js"
+  ]
+}
